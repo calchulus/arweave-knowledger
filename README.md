@@ -1,1 +1,2 @@
-# arweave-knowledger
+# knowledger
+A project about crypto education
