@@ -1,4 +1,4 @@
-# knowledger
+# [knowledger](https://arweave.net/SXaeOyhlqkAPz8ydfwhzU65UA6liZqZhQp2vkQggr_0)
 This project set out to provide a mechanism by which submitters of resources/knowledge about blockchain (aka a repository of resources to be cited against in research/development) could record details about a link/source, and then attach a validity bond denominated in AR token - one's AR address would also be attached to the attestation.
 
 # Challenges I faced
@@ -17,3 +17,6 @@ In the future, I also would like to add the function to "top up" and attach mult
 As for using Arweave, the process to upload a file and make sure that there were no missing dependencies was difficult when I had some external js for which I could not verify that everything was included (Semantic UI sucks...). I had to strip down a lot of code to make it under the 2 mb limit to submit to Arweave, but hey, at least my code is more condensed now!
 The non-constant blocktimes made it difficult for me to know if something was wrong with my submission or if the network was just taking a random amount of time to mine the next block. Would love to learn more on how I could help mine some Arweave.
 
+[Arweave permaweb link](https://arweave.net/SXaeOyhlqkAPz8ydfwhzU65UA6liZqZhQp2vkQggr_0)
+
+[Github pages link](https://calchulus.github.io/arweave-knowledger/submit.html)
